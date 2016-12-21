@@ -1,6 +1,6 @@
 confirm-promise
 ==============
-[![npm version](http://img.shields.io/npm/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm download](http://img.shields.io/npm/dm/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm engines](http://img.shields.io/node/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![build status](http://img.shields.io/travis/noyobo/confirm-promise.svg)](https://travis-ci.org/noyobo/confirm-promise) [![Coverage Status](https://img.shields.io/coveralls/noyobo/confirm-promise.svg)](https://coveralls.io/r/noyobo/confirm-promise) [![npm dependencise](https://david-dm.org/noyobo/confirm-promise.svg)](https://david-dm.org/noyobo/confirm-promise)
+[![npm version](http://img.shields.io/npm/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm download](http://img.shields.io/npm/dm/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm engines](http://img.shields.io/node/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![build status](http://img.shields.io/travis/noyobo/confirm-promise.svg)](https://travis-ci.org/noyobo/confirm-promise) [![Coverage Status](https://img.shields.io/coveralls/noyobo/confirm-promise.svg)](https://coveralls.io/r/noyobo/confirm-promise) [![dependencies Status](https://david-dm.org/noyobo/confirm-promise/status.svg)](https://david-dm.org/noyobo/confirm-promise)
 
 A simple command-line tool to confirm
 
