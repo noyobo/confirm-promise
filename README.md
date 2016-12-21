@@ -2,9 +2,9 @@ confirm-promise
 ==============
 [![npm version](http://img.shields.io/npm/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm download](http://img.shields.io/npm/dm/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![npm engines](http://img.shields.io/node/v/confirm-promise.svg)](https://www.npmjs.org/package/confirm-promise) [![build status](http://img.shields.io/travis/noyobo/confirm-promise.svg)](https://travis-ci.org/noyobo/confirm-promise) [![Coverage Status](https://img.shields.io/coveralls/noyobo/confirm-promise.svg)](https://coveralls.io/r/noyobo/confirm-promise) [![npm dependencise](https://david-dm.org/noyobo/confirm-promise.svg)](https://david-dm.org/noyobo/confirm-promise)
 
-[![NPM](https://nodei.co/npm/confirm-promise.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/confirm-promise/)
-
 A simple command-line tool to confirm
+
+![image](https://cloud.githubusercontent.com/assets/1292082/21397150/a39b4cc8-c7dd-11e6-97ca-005c4619de03.png)
 
 ## Install
 

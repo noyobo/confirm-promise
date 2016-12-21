@@ -1,5 +1,4 @@
 const confirm = require('../src/');
-const co = require('co');
 
 describe('confirm-promise', function() {
   it('it work with promises type yes', function(done) {
