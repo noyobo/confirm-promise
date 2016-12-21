@@ -1,6 +1,6 @@
 {
   "name": "confirm-promise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "confirm command line",
   "main": "lib/index.js",
   "scripts": {
